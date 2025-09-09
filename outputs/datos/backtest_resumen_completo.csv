@@ -1,0 +1,7 @@
+Estrategia,Rendimiento_Anual_%,Volatilidad_%,Sharpe_Ratio,Max_Drawdown_%,VaR_95_%,Valor_Final,Retorno_Total_%
+Cartera Máximo Sharpe,68.11,29.22,1.206,-17.89,-2.52,149.9,49.9
+Cartera Mínima Volatilidad,45.12,25.05,0.489,-19.63,-2.08,130.5,30.5
+Tu Cartera Real,36.49,27.26,0.133,-21.62,-2.20,123.1,23.1
+Cartera Risk Parity,33.02,26.40,0.006,-20.47,-2.18,120.6,20.6
+Cartera Cap Weighted,29.36,28.48,-0.123,-22.23,-2.35,117.4,17.4
+Cartera Equal Weight,28.80,27.02,-0.151,-20.79,-2.25,117.3,17.3

@@ -1,0 +1,2 @@
+fecha_analisis,total_activos,periodo_datos,registros_historicos,tiene_cartera_real,valor_inicial_cartera,valor_final_cartera,retorno_total_periodo,carteras_optimizadas,simulaciones_ejecutadas
+2025-09-08,5,2025-01-03 a 2025-09-02,161,True,21805.713684278577,27301.928746221758,25.205389475079777,5,10000
